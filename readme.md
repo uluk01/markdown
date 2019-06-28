@@ -1,6 +1,6 @@
 #  "Markdown & Git"
 
-### Deadline: 29-06-2019 23:59
+### Deadline: 30-06-2019 23:59
 
 ## Task
 
